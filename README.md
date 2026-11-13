@@ -18,16 +18,11 @@
 
 > 幸福的细微是曦薇~~
 
-<!--
-上传照片到 images/ 后，将下面的代码移到注释外，并按实际文件名修改 src。
-不要设置 height，以免照片变形。
-
 <p align="center">
-  <img src="images/tian-xiwei-01.jpg" alt="田曦薇照片 1" width="32%" />
-  <img src="images/tian-xiwei-02.jpg" alt="田曦薇照片 2" width="32%" />
-  <img src="images/tian-xiwei-03.jpg" alt="田曦薇照片 3" width="32%" />
+  <img src="images/001.png" alt="田曦薇照片 1" width="32%" height="220" />
+  <img src="images/002.png" alt="田曦薇照片 2" width="32%" height="220" />
+  <img src="images/003.png" alt="田曦薇照片 3" width="32%" height="220" />
 </p>
--->
 
 ## 🐍 3.snake of commit
 
