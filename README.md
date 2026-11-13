@@ -1,21 +1,21 @@
-# Learning in public.
+# .life is sunshine through the rain.
 
-`Python · AI Agent · Building one small step at a time.`
+`AI Agent | 田曦薇 | 提交日志`
 
-## 📖 Learning Journal
+## 📖 1.learning journal
 
-> A quiet place to keep track of what I learn.
+> just keep track of what I have learned quitely.
 
-| Date | Completed |
+| date | mastered |
 | :--- | :--- |
 
 <!-- 每完成一次学习，在表格末尾新增一行，例如：
 | 2026-11-13 | 完成 Python 环境搭建 |
 -->
 
-## 🌷 Tian Xiwei
+## 🌷 2.a head chef
 
-> 幸福的细微是曦薇
+> 幸福的细微是曦薇~~
 
 <!--
 上传照片到 images/ 后，将下面的代码移到注释外，并按实际文件名修改 src。
@@ -28,7 +28,7 @@
 </p>
 -->
 
-## 🐍 Snake
+## 🐍 3.snake of commit
 
 <p align="center">
   <picture>
