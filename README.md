@@ -6,13 +6,13 @@
 
 > just keep track of what I have learned quitely.
 
-| date | mastered |
-| :--- | :--- |
-|2026.11.13 | mysql入门实战-连接 |
-
-<!-- 每完成一次学习，在表格末尾新增一行，例如：
-| 2026-11-13 | 完成 Python 环境搭建 |
--->
+| date | mastered | hours |
+| :--- | :--- | :--- |
+| 2026.11.03 | 课程目录整理 | 2h32min |
+| 2026.11.04 | 课程目录整理 | 3h09min |
+| 2026.11.05 | python从入门到实战 | 5h49min |
+| 2026.11.06 | python作业+mysql环境搭建 | 5h53min |
+| 2026.11.07 | mysql从入门到实战 | 3h12min |
 
 ## 🌷 2.a head chef
 
