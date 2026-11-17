@@ -16,6 +16,7 @@
 | 2026.11.14 | mysql从入门到实战 | 3h39min |
 | 2026.11.15 | mysql作业1和2、fastapi从入门到实战 | 8h54min |
 | 2026.11.16 | fastapi从入门到实战、作业1和2 | 5h17min |
+| 2026.11.17 | fastapi从入门到实战 | 5h39min |
 
 ## 🌷 2.a head chef
 
