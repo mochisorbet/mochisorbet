@@ -18,6 +18,7 @@
 | 2026.11.16 | fastapi从入门到实战、作业1和2 | 5h17min |
 | 2026.11.17 | fastapi从入门到实战-orm | 5h39min |
 | 2026.11.18 | fastapi从入门到实战-依赖注入 | 7h47min |
+| 2026.11.19 | fastapi从入门到实战 | 6h59min |
 
 ## 🌷 2.a head chef
 
