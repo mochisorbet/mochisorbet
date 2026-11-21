@@ -20,6 +20,7 @@
 | 2026.11.18 | fastapi从入门到实战-依赖注入 | 7h47min |
 | 2026.11.19 | fastapi从入门到实战 | 6h59min |
 | 2026.11.20 | fastapi作业4、langchain从入门到实战 | 8h17min |
+| 2026.11.21 | langchain从入门到实战 | 4h40min |
 
 ## 🌷 2.a head chef
 
