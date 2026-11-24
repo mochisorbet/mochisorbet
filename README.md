@@ -23,6 +23,7 @@
 | 2026.11.21 | langchain从入门到实战 | 4h40min |
 | 2026.11.22 | langchain从入门到实战-提示词模板 | 9h26min |
 | 2026.11.23 | langchain从入门到实战-parser解析器 | 3h38min |
+| 2026.11.24 | langchain从入门到实战-runnable | 5h46min |
 
 ## 🌷 2.a head chef
 
