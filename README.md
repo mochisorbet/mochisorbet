@@ -25,7 +25,8 @@
 | 2026.11.23 | langchain从入门到实战-parser解析器 | 3h38min |
 | 2026.11.24 | langchain从入门到实战-runnable | 5h46min |
 | 2026.11.25 | redis从入门到实战 | 5h55min |
-| 2026.11.26 | langchain从入门到实战-短期记忆 | 4h33min |
+| 2026.11.27 | langchain从入门到实战-短期记忆 | 4h33min |
+| 2026.11.28 | langchain从入门到实战-memory | 2h45min |
 
 ## 🌷 2.a head chef
 
